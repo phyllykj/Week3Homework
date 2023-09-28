@@ -8,6 +8,12 @@
   --hover-colour: #0a58ca;
 }
 
+body {
+  margin-top: 100px;
+  margin: 0;
+  display: block;
+}
+
 #h1,
 #h2,
 #h3 {
