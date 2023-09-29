@@ -7,13 +7,11 @@
     "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   --hover-colour: #0a58ca;
 }
-
 body {
   margin-top: 100px;
   margin: 0;
   display: block;
 }
-
 #h1,
 #h2,
 #h3 {
@@ -124,7 +122,6 @@ p {
 .app-title {
   font-size: 48px;
   font-weight: 500;
-  text-align: left;
 }
 
 .launch-link {
